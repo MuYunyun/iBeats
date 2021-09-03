@@ -6,16 +6,16 @@ Apple Watch 心率数据采集 - Your Soul, Your Beats!
 <!--START_SECTION:my_heart_rate-->
 | Time | Rate | 
  | ---- | ---- | 
-| Sep 1, 2021 at 1:00 PM | 78 |
-| Sep 1, 2021 at 12:53 PM | 73 |
-| Sep 1, 2021 at 12:46 PM | 76 |
-| Sep 1, 2021 at 12:41 PM | 77 |
-| Sep 1, 2021 at 12:37 PM | 85 |
-| Sep 1, 2021 at 12:33 PM | 82 |
-| Sep 1, 2021 at 12:28 PM | 88 |
-| Sep 1, 2021 at 12:20 PM | 87 |
-| Sep 1, 2021 at 12:18 PM | 75 |
-| Sep 1, 2021 at 12:12 PM | 83 |
+| Sep 3, 2021 at 12:49 PM | 69 |
+| Sep 3, 2021 at 12:46 PM | 75 |
+| Sep 3, 2021 at 12:40 PM | 72 |
+| Sep 3, 2021 at 12:37 PM | 70 |
+| Sep 3, 2021 at 12:33 PM | 73 |
+| Sep 3, 2021 at 12:25 PM | 71 |
+| Sep 3, 2021 at 12:18 PM | 73 |
+| Sep 3, 2021 at 12:17 PM | 67 |
+| Sep 3, 2021 at 12:09 PM | 78 |
+| Sep 3, 2021 at 12:07 PM | 71 |
 
 <!--END_SECTION:my_heart_rate-->
 
