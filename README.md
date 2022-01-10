@@ -6,16 +6,16 @@ Apple Watch 心率数据采集 - Your Soul, Your Beats!
 <!--START_SECTION:my_heart_rate-->
 | Time | Rate | 
  | ---- | ---- | 
-| Dec 27, 2021 at 12:44 PM | 73 |
-| Dec 27, 2021 at 12:31 PM | 71 |
-| Dec 27, 2021 at 12:16 PM | 71 |
-| Dec 27, 2021 at 12:13 PM | 88 |
-| Dec 27, 2021 at 12:09 PM | 82 |
-| Dec 27, 2021 at 12:05 PM | 79 |
-| Dec 27, 2021 at 12:02 PM | 121 |
-| Dec 27, 2021 at 12:02 PM | 119 |
-| Dec 27, 2021 at 12:02 PM | 118 |
-| Dec 27, 2021 at 12:02 PM | 116 |
+| Jan 10, 2022 at 8:07 AM | 48 |
+| Jan 10, 2022 at 8:01 AM | 50 |
+| Jan 10, 2022 at 7:55 AM | 51 |
+| Jan 10, 2022 at 7:49 AM | 56 |
+| Jan 10, 2022 at 7:45 AM | 52 |
+| Jan 10, 2022 at 7:41 AM | 55 |
+| Jan 10, 2022 at 7:36 AM | 50 |
+| Jan 10, 2022 at 7:36 AM | 50 |
+| Jan 10, 2022 at 7:28 AM | 50 |
+| Jan 10, 2022 at 7:25 AM | 51 |
 
 <!--END_SECTION:my_heart_rate-->
 
